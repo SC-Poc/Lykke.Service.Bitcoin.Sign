@@ -3,7 +3,6 @@
     public enum ErrorCode
     {
         IncompatiblePrivateKey,
-
         InvalidScript,
         InputNotFound
     }
