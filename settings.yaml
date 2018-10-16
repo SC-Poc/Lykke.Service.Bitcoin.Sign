@@ -1,7 +1,0 @@
-BitcoinSignService:    
-    Network:
-        settings-key: BitcoinSign-Network  
-
-MonitoringServiceClient:
-    MonitoringServiceUrl:
-        settings-key: MonitoringServiceUrl
